@@ -10,7 +10,7 @@ description: Product Manager with 16+ years of experience in betting, fintech, a
 ============================================================ -->
 
 <p align="center">
-  <img src="assets/profile.jpg" alt="Mrunal Moghe" width="180" style="border-radius: 50%;">
+  <img src="assets/Image.jpg" alt="Mrunal Moghe" width="180" style="border-radius: 50%;">
 </p>
 
 <h1 align="center">Mrunal Moghe</h1>
